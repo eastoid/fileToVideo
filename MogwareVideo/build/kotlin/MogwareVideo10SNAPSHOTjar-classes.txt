@@ -1,0 +1,1 @@
+C:\Users\strom\eclipse-workspace\MogwareVideo\build\classes\kotlin\main\mogware\FfmpegKt.class;C:\Users\strom\eclipse-workspace\MogwareVideo\build\classes\kotlin\main\mogware\MainKt.class;C:\Users\strom\eclipse-workspace\MogwareVideo\build\classes\kotlin\main\mogware\RecreateFileKt.class
