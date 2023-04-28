@@ -2,3 +2,4 @@
 Goofware jvm program saves files in video format with v40 qr codes 🤓
 
 need to put ffmpeg binary in .mogware !!
+actually thats pointless becasue this version does not work at all 
